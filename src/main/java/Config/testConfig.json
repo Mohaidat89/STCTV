@@ -1,0 +1,8 @@
+{
+  "env_config": {
+    "baseUrl": "https://subscribe.jawwy.tv/jo-en",
+    "browser": "chrome",
+    "headlessMode": false,
+    "defaultWaitTime": 50
+  }
+}
